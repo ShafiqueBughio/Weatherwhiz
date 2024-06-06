@@ -47,7 +47,7 @@ export const Card = () => {
   return (
     <div className="relative h-screen w-screen flex">
       <video
-        className="absolute top-0 left-0 w-full h-full object-cover z-0"
+        className="absolute top-0 left-0 w-full h-full  object-cover z-0"
         src="https://videos.pexels.com/video-files/856356/856356-hd_1280_720_25fps.mp4" // Replace with your video file path
         autoPlay
         loop
